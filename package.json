@@ -1,0 +1,13 @@
+{
+  "name": "jen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0", 
+    "build": "echo \"Building project...\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A project for jen"
+}
